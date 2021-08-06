@@ -38,7 +38,7 @@ elif os.path.isfile("/data/data/com.termux/files/home/hpro/...../node_modules/by
     os.system("#")
     os.system("cd ..... && node index.js &")
     os.system("clear")
-    print("\033[1;32mPlease Select Chrome Browser To Continue\033[0;97m")
+    print("\033[1;32mPlease wait.....For 10 Sec\033[0;97m")
     os.system("xdg-open http://aorracer.com/3mkf")
     time.sleep(10)
 bd=random.randint(2e7, 3e7)
